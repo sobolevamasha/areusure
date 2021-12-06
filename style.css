@@ -18,7 +18,6 @@
     justify-content: center; 
     overflow: auto;
     background-color: #FEEFF2;
-    
 }
 
 .wrapper {
@@ -58,4 +57,5 @@
 #img {
     visibility: hidden; 
     position: absolute;
+    max-width: 100%;
 }
